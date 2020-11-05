@@ -1,7 +1,6 @@
 
 ## Table of Contents
 
-* [Bradley Childs](bradley-childs.md)
 * [Dritte](#Dritte-Ueberschrift)
 
 ```
